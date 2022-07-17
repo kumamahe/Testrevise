@@ -17,8 +17,6 @@ public class dbtest {
 		String username="root";
 		String pwd="";
 		
-		//github desktop testing
-		
 		try {
 			
 			Class.forName(driver).newInstance();
